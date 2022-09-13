@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.App{
+  background-color: aliceblue;
+}
+h1{
+  background-color: yellowgreen;
+  font-weight: bolder;
+}
+.card{
+  width: 50%;
+  background-color: yellowgreen;
+}
